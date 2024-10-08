@@ -1,3 +1,9 @@
 answers
+<<<<<<< HEAD
 buh
 buhbuh
+=======
+bla
+bla
+bla
+>>>>>>> 74511fe2ed9e5d5ba9b5af57950cd0cd3a7aabb4
